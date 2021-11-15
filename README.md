@@ -2,6 +2,8 @@
 
 Custom video player using the HTML5 video element and it's JavaScript API with a custom design
 
+[Demo](https://custom-video-player1.netlify.app/)
+
 ## Project Specifications
 
 - Display custom video player styled with CSS
